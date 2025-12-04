@@ -2,8 +2,6 @@
 
 A Python-based tool to automatically fetch, analyze, and store fundamental financial insights (pros & cons) for a list of companies using an external financial data API and a MySQL database.
 
----
-
 ## 🚀 Overview
 
 This project:
